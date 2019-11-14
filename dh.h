@@ -1,7 +1,3 @@
-//
-// Created by m007 on 13/10/2019.
-//
-
 #ifndef AA_DH_H
 #define AA_DH_H
 #include "matrix.h"
